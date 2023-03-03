@@ -11,4 +11,6 @@ Flowchart
 ![image](https://user-images.githubusercontent.com/70330869/222650055-af0cc1aa-8137-436c-8993-eb86b2dcf217.png)
 
 
+Class Diagram
 
+![image](https://user-images.githubusercontent.com/70330869/222651439-ce7d529c-0b89-46bd-90a5-17e1fe2ca5df.png)
