@@ -1,3 +1,5 @@
+Trying to figure out how to export everything properly from Godot, runnable app will be added soon
+
 2d sidescroller game
 
 
