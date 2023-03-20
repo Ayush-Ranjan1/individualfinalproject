@@ -20,5 +20,3 @@ Class Diagram
 
 Screenshots
 ![image](https://user-images.githubusercontent.com/70330869/226360735-99a5ec3c-c3db-4726-85b4-fade7dd2aa0f.png)
-
-![image](player_placeholder(1).gif)/![](player_placeholder(1).gif)
