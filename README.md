@@ -18,5 +18,7 @@ Class Diagram
 
 ![image](https://user-images.githubusercontent.com/70330869/222651439-ce7d529c-0b89-46bd-90a5-17e1fe2ca5df.png)
 
-Screenshot
-![image](https://user-images.githubusercontent.com/70330869/226358518-ea10ec70-a929-4489-b9b8-3dd4e013610a.png)
+Screenshots
+![image](https://user-images.githubusercontent.com/70330869/226360735-99a5ec3c-c3db-4726-85b4-fade7dd2aa0f.png)
+
+![image](player_placeholder(1).gif)/![](player_placeholder(1).gif)
