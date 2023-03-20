@@ -19,6 +19,3 @@ Class Diagram
 ![image](https://user-images.githubusercontent.com/70330869/222651439-ce7d529c-0b89-46bd-90a5-17e1fe2ca5df.png)
 
 
-
-            Screen Shot 2023-03-20 at 7.43.05 AM.png
-          
